@@ -17,3 +17,8 @@ Php, Javascript, SQL and I am familliar with C++
          <img alt="Discord" src="images\discord.png"
          width=40" height="40" hspace="10" >
       </a>
+      
+<a href="https://www.linkedin.com/in/michel-abi-daoud-183360233/">
+         <img alt="LinkedIn" src="images\linkedin.png"
+         width=42" height="42" hspace="1" >
+      </a>
