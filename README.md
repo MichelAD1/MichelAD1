@@ -19,5 +19,5 @@ Php, Javascript, SQL and I am familliar with C++
       
 <a href="https://www.linkedin.com/in/michel-abi-daoud-183360233/">
          <img alt="LinkedIn" src="images\linkedin.png"
-         width=42" height="42" hspace="" >
+         width=42" height="42" hspace="10" >
       </a>
