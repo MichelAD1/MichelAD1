@@ -102,10 +102,6 @@ const michel = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MichelAD1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</div>
-
-<div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MichelAD1&theme=tokyo-night&bg_color=1A1B27&color=7AA2F7&line=BF91F3&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
 </div>
 
