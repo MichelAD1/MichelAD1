@@ -93,7 +93,7 @@ const michel = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MichelAD1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=1A1B27&title_color=7AA2F7&icon_color=BF91F3&text_color=C0CAF5" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MichelAD1&show_icons=true&hide_border=true&theme=tokyonight&bg_color=1A1B27&title_color=7AA2F7&icon_color=BF91F3&text_color=C0CAF5" alt="stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=MichelAD1&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=BF91F3&currStreakLabel=7AA2F7" alt="streak" />
 </div>
 
