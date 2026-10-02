@@ -5,7 +5,7 @@
 
 <!-- ============ TYPING SUBTITLE ============ -->
 <div align="center">
-  <a href="https://michel-portfolio-rose.vercel.app/">
+  <a href="https://michelabidaoud.dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Software+Developer+%40+AstroLabs;Full-stack+Engineer;TypeScript+%7C+React+%7C+Next.js+%7C+Node;Building+digital+products+that+scale" alt="typing subtitle" />
   </a>
 </div>
@@ -13,7 +13,7 @@
 <!-- ============ SOCIAL + VIEWS ============ -->
 <div align="center">
   <a href="https://www.linkedin.com/in/michel-abi-daoud-183360233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://michel-portfolio-rose.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://michelabidaoud.dev"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:michel.a.abidaoud@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
