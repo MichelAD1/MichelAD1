@@ -1,6 +1,6 @@
 <!-- ============ HEADER WAVE BANNER ============ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Michel%20Abi%20Daoud&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Developer%20%40%20AstroLabs%20%E2%80%A2%20Building%20products%20that%20scale&descAlignY=58&descSize=16" alt="banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Michel&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Developer%20%40%20AstroLabs%20%E2%80%A2%20Building%20products%20that%20scale&descAlignY=58&descSize=16" alt="banner" />
 </div>
 
 <!-- ============ TYPING SUBTITLE ============ -->
@@ -12,9 +12,8 @@
 
 <!-- ============ SOCIAL + VIEWS ============ -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/michel-abi-daoud-183360233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://michelabidaoud.dev"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:michel.a.abidaoud@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:hello@michelabidaoud.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <br/>
@@ -26,7 +25,7 @@
 const michel = {
   role:      "Software Developer",
   company:   "AstroLabs",
-  location:  "Byblos, Lebanon 🇱🇧",
+  location:  "Lebanon 🇱🇧",
   building:  "4 production platforms, in parallel",
   stack:     ["TypeScript", "React", "Next.js", "Node", "Laravel"],
   languages: ["English", "French", "Arabic"],
@@ -39,7 +38,7 @@ const michel = {
 - 💬 &nbsp;Ask me about **TypeScript, React, Next.js, Node, Laravel & PostgreSQL**
 - 🎯 &nbsp;I care about the details — clean code, thoughtful UX, products people enjoy using
 - 🌍 &nbsp;Fluent in **English · French · Arabic**
-- 📫 &nbsp;Reach me at **michel.a.abidaoud@gmail.com**
+- 📫 &nbsp;Reach me at **hello@michelabidaoud.dev**
 
 <br/>
 
